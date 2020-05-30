@@ -1,12 +1,12 @@
-# servo-shield
+# Servo shield
 Shield para servo motores em Arduino UNO R3
 
 Reprodução da PCB montada no vídeo a seguir, do canal Brincando com Ideias: https://www.youtube.com/watch?v=vVOyWQZ25M8&
 
 <h3>Esquemático</h3>
-![](images/esquematico.png)
+![](esquematico.png)
 
-Foi gerado o esquema para soldagem de componentes e método utilizado para transferência para a placa foi o fotográfico, utilizando tinta fotossensível.
+
 
 <h3>Resultado</h3>
 Alguas falhas ocorreram nas trilhas, impedindo continuidade em alguns trechos. O problema foi contornado soldando estanho nessas lugares.
