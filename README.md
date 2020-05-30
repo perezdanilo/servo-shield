@@ -6,6 +6,7 @@ Reprodução da PCB montada no vídeo a seguir, do canal Brincando com Ideias:
 https://www.youtube.com/watch?v=vVOyWQZ25M8&
 
 <h3>Esquemático</h3>
+
 ![](images/esquematico.png)
 
 
