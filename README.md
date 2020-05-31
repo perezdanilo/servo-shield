@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=vVOyWQZ25M8&
 
 Alguas falhas ocorreram nas trilhas, impedindo continuidade trechos importantes. O problema foi contornado soldando estanho nessas locais.
 
-<h3>Testando</h3>
+<h3>Teste</h3>
 
 Foi utilizado o exemplo Knob, da biblioteca Servo, realizando algumas adaptações. 
 
