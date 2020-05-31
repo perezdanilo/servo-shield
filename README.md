@@ -1,7 +1,7 @@
 # Servo shield
 Shield para servo motores em Arduino UNO R3
 
-Reprodução da PCB montada no vídeo a seguir, do canal Brincando com Ideias: 
+Trata-se de uma reprodução da PCB montada no vídeo a seguir: 
 
 https://www.youtube.com/watch?v=vVOyWQZ25M8&
 
@@ -9,12 +9,12 @@ https://www.youtube.com/watch?v=vVOyWQZ25M8&
 
 ![](images/esquematico.png)
 
-
-
 <h3>Resultado</h3>
-Alguas falhas ocorreram nas trilhas, impedindo continuidade em alguns trechos. O problema foi contornado soldando estanho nessas lugares.
+
+Alguas falhas ocorreram nas trilhas, impedindo continuidade trechos importantes. O problema foi contornado soldando estanho nessas locais.
 
 <h3>Testando</h3>
+
 Foi utilizado o exemplo Knob, da biblioteca Servo, realizando algumas adaptações. 
 
 
