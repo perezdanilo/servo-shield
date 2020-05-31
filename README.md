@@ -5,13 +5,18 @@ Trata-se de uma reprodução da PCB montada no vídeo a seguir:
 
 https://www.youtube.com/watch?v=vVOyWQZ25M8&
 
+Anteriormente à realização desse documento, fiz a montagem da placa, porém, sem utilizar as footprints corretas, utilizando o software Kicad:
+[imagem da placa]
+
+Alguas falhas ocorreram nas trilhas, impedindo continuidade trechos importantes. O problema foi contornado soldando estanho nessas locais.
+
 <h3>Esquemático</h3>
 
 ![](images/esquematico.png)
 
 
-(vou colocar imagens da placa já montada)
-Alguas falhas ocorreram nas trilhas, impedindo continuidade trechos importantes. O problema foi contornado soldando estanho nessas locais.
+[colocar a imagem do modelo 3D do kicad]
+
 
 <h3>Teste</h3>
 
