@@ -9,8 +9,8 @@ https://www.youtube.com/watch?v=vVOyWQZ25M8&
 
 ![](images/esquematico.png)
 
-<h3>Resultado</h3>
 
+(vou colocar imagens da placa já montada)
 Alguas falhas ocorreram nas trilhas, impedindo continuidade trechos importantes. O problema foi contornado soldando estanho nessas locais.
 
 <h3>Teste</h3>
