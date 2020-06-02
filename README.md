@@ -6,7 +6,8 @@ Trata-se de uma reprodução da PCB montada no vídeo a seguir:
 https://www.youtube.com/watch?v=vVOyWQZ25M8&
 
 Anteriormente à realização desse documento, fiz a montagem da placa, porém, sem utilizar as footprints corretas, utilizando o software Kicad:
-[imagem da placa]
+
+[vou colocar uma imagem da placa]
 
 Alguas falhas ocorreram nas trilhas, impedindo continuidade trechos importantes. O problema foi contornado soldando estanho nessas locais.
 
