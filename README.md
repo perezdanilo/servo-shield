@@ -9,7 +9,6 @@ Anteriormente à realização desse documento, fiz a montagem da placa, porém, 
 
 [vou colocar uma imagem da placa]
 
-Alguas falhas ocorreram nas trilhas, impedindo continuidade trechos importantes. O problema foi contornado soldando estanho nessas locais.
 
 <h3>Esquemático</h3>
 
@@ -24,7 +23,6 @@ Alguas falhas ocorreram nas trilhas, impedindo continuidade trechos importantes.
 Foi utilizado o exemplo Knob, da biblioteca Servo, realizando algumas adaptações. 
 
 
-(ainda vou mudar o código, adicionando os outros motores e potenciômetros)
 ```c
 /*
  Controlling a servo position using a potentiometer (variable resistor)
@@ -45,13 +43,13 @@ Servo servoA3;
 int pot0 = A0;  // analog pin used to connect the potentiometer
 int val0;    // variable to read the value from the analog pin
 
-int pot1 = A1;  // analog pin used to connect the potentiometer
+int pot1 = A1;  
 int val1; 
 
-int pot2 = A2;  // analog pin used to connect the potentiometer
+int pot2 = A2;  
 int val2; 
 
-int pot3 = A3;  // analog pin used to connect the potentiometer
+int pot3 = A3;  
 int val3;
  
 void setup() {
@@ -66,16 +64,16 @@ void loop() {
   val0 = map(val0, 0, 1023, 0, 180);     // scale it to use it with the servo (value between 0 and 180)
   servoA0.write(val0);                  // sets the servo position according to the scaled value
   
-  val1 = analogRead(pot1);            // reads the value of the potentiometer (value between 0 and 1023)
-  val1 = map(val1, 0, 1023, 0, 180);     // scale it to use it with the servo (value between 0 and 180)
+  val1 = analogRead(pot1);            
+  val1 = map(val1, 0, 1023, 0, 180);     
   servoA1.write(val1);      
 
-  val2 = analogRead(pot2);            // reads the value of the potentiometer (value between 0 and 1023)
-  val2 = map(val2, 0, 1023, 0, 180);     // scale it to use it with the servo (value between 0 and 180)
+  val2 = analogRead(pot2);            
+  val2 = map(val2, 0, 1023, 0, 180);     
   servoA2.write(val2);      
 
-  val3 = analogRead(pot3);            // reads the value of the potentiometer (value between 0 and 1023)
-  val3 = map(val3, 0, 1023, 0, 180);     // scale it to use it with the servo (value between 0 and 180)
+  val3 = analogRead(pot3);            
+  val3 = map(val3, 0, 1023, 0, 180);     
   servoA3.write(val3);      
   
   delay(15);                           // waits for the servo to get there
