@@ -15,9 +15,6 @@ Anteriormente à realização desse documento, fiz a montagem da placa, porém, 
 ![](images/esquematico.png)
 
 
-[colocar a imagem do modelo 3D do kicad]
-
-
 <h3>Teste</h3>
 
 Foi utilizado o exemplo Knob, da biblioteca Servo, realizando algumas adaptações. 
