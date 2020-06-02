@@ -5,7 +5,7 @@ Trata-se de uma reprodução da PCB montada no vídeo a seguir:
 
 https://www.youtube.com/watch?v=vVOyWQZ25M8&
 
-Anteriormente à realização desse documento, fiz a montagem da placa, porém, sem utilizar as footprints corretas, utilizando o software Kicad:
+Anteriormente à realização desse documento, fiz a montagem da placa, porém, sem utilizar as footprints corretas, por meio do  software Kicad:
 
 ![](images/placa.jpg)
 
