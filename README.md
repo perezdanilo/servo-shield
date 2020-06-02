@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=vVOyWQZ25M8&
 
 Anteriormente à realização desse documento, fiz a montagem da placa, porém, sem utilizar as footprints corretas, utilizando o software Kicad:
 
-[vou colocar uma imagem da placa]
+![](images/placa.jpg)
 
 
 <h3>Esquemático</h3>
@@ -24,14 +24,6 @@ Foi utilizado o exemplo Knob, da biblioteca Servo, realizando algumas adaptaçõ
 
 
 ```c
-/*
- Controlling a servo position using a potentiometer (variable resistor)
- by Michal Rinott <http://people.interaction-ivrea.it/m.rinott>
-
- modified on 8 Nov 2013
- by Scott Fitzgerald
- http://www.arduino.cc/en/Tutorial/Knob
-*/
 
 #include <Servo.h>
 
