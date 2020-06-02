@@ -15,6 +15,16 @@ Como é possível notar, diversos falhas ocorreram em trilhas, impedindo continu
 
 Não montarei uma nova placa, mas segue o esquemático:
 
+<h3>Materiais</h3>
+
+- Potenciômetros
+- Resistores
+- LEDs
+- Barras de pinos
+- Push buttons
+- Conector borne
+
+
 <h3>Esquemático</h3>
 
 ![](images/esquematico.png)
