@@ -9,6 +9,9 @@ Anteriormente à realização desse documento, fiz a montagem da placa, porém, 
 
 ![](images/placa.jpg)
 
+![](images/placa_verso.jpg)
+
+Como é possível notar, diversos falhas ocorreram em trilhas, impedindo continuidade. O problema foi contornado utilizando solda.
 
 <h3>Esquemático</h3>
 
