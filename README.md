@@ -13,6 +13,8 @@ Anteriormente à realização desse documento, fiz a montagem da placa, porém, 
 
 Como é possível notar, diversos falhas ocorreram em trilhas, impedindo continuidade. O problema foi contornado utilizando solda.
 
+Não montarei uma nova placa, mas segue o esquemático:
+
 <h3>Esquemático</h3>
 
 ![](images/esquematico.png)
