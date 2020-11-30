@@ -1,5 +1,5 @@
 # Servo shield
-Shield para servo motores em Arduino UNO R3
+Shield para pequenos servo motores em Arduino UNO R3
 
 Trata-se de uma reprodução da PCB montada no vídeo a seguir: 
 
